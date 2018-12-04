@@ -1,4 +1,4 @@
-/* All code here is made by Matthew Clark
+/* All code here is made by Knakrack3
  * However, credit to stack overflow for coming up with some ways to fix bugs that my carlessness caused
  */ 
  double weights[6] = {1, 7, 5, 1, 1, 1};  //This is where you adjust the probability. The first slot corrosponds to 1 on the die, and the last slot corrosponds to 6 on the die
